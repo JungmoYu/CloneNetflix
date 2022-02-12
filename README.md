@@ -1,7 +1,7 @@
 # CloneNetflix
 
 ### Netflix Main Page 클론해보기
-다음의 UI component르 주로 이용
+다음의 UI component를 주로 이용
 - UIScrollView
 - UIStackView
 
